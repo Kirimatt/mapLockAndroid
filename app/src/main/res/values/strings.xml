@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mapLock</string>
+    <string name="passwordTextView">Password</string>
+    <string name="emailEditText">Enter your email</string>
+    <string name="passwordEditText">Enter your password</string>
+    <string name="signInButton">Sign in</string>
+    <string name="emailTextView">Email</string>
+    <string name="welcomeTextView">Welcome back!</string>
+</resources>
